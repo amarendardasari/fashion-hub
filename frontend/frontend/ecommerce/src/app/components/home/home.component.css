@@ -1,0 +1,15 @@
+                img {
+                    width: fit-content;
+                    height: fit-content;
+                }
+                
+                h1 {
+                    margin-bottom: 50px;
+                    text-align: center;
+                    color: black;
+                }
+                
+                body {
+                    background-image: url("https://img.freepik.com/free-photo/background-gradient-lights_23-2149304965.jpg?ga=GA1.1.280240367.1708670920&semt=ais_user");
+                    background-size: cover;
+                }
